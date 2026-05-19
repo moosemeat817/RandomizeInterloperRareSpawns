@@ -1,2 +1,13 @@
-# RandomizeInterloperRareSpawns
-About A mod for The Long Dark that randomizes Interloper loot
+# Randomize Interloper Rare Spawns
+
+This is a mod for The Long Dark by Hinterland Studio, Inc.
+
+On vanilla interloper, finding one rare item allows the player to know the locations of every other rare item in the game world. This mod eliminates that certainty.
+
+- There are numerous locations that the items can spawn at across the game world.
+- All spawn points have been hand-placed and are each specific to one particular item.
+- Spawns are purely random and not dependent on any other the spawn of any other items.
+- Like the vanilla game mode, hammers cannot be found in regions with a forge.
+- Other than the above limit on hammer spawns, rare items can be found in any region and are almost evenly distributed.
+- There is one guaranteed spawn in the world for each rare item.
+- Note: DO NOT use with existing saves. It will probably delete your rare items.

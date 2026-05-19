@@ -21,3 +21,16 @@ On vanilla interloper, finding one rare item allows the player to know the locat
 | Magnifying Glass | Summit of Timberwolf Mountain          |
 | Bedroll          | Homesteader's Respite in Ash Canyon    |
 | Storm Lantern    | Middle Layer of Cinder Hills Coal Mine |
+
+
+
+---
+
+## 🙏 Special Thanks
+
+- To DS5678, the original creator of the mod.
+
+
+## 
+If you enjoy using this mod, feel free to buy me a cup of coffee.  Thank you!
+https://ko-fi.com/moosemeat817

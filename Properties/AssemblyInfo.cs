@@ -1,0 +1,42 @@
+﻿using MelonLoader;
+using System.Reflection;
+using System.Runtime.InteropServices;
+// General Information about an assembly is controlled through the following
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+[assembly: AssemblyTitle("RandomizeInterloperRareSpawns")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("RandomizeInterloperRareSpawns")]
+[assembly: AssemblyCopyright("Copyright ©  2026")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+[assembly: MelonInfo(typeof(RandomizeInterloperRareSpawns.Implementation), "RandomizeInterloperRareSpawns", "1.3.0", "ds5678,MooseMeat")]
+[assembly: MelonGame("Hinterland", "TheLongDark")]
+[assembly: MelonOptionalDependencies("GearSpawner")]  // marks it optional so no warning/error
+// Remove MelonDependency("ModComponent") — ModComponent is referenced via NuGet, not a MelonLoader dep declaration
+
+// Setting ComVisible to false makes the types in this assembly not visible
+// to COM components.  If you need to access a type in this assembly from
+// COM, set the ComVisible attribute to true on that type.
+[assembly: ComVisible(false)]
+
+// The following GUID is for the ID of the typelib if this project is exposed to COM
+[assembly: Guid("8d04df52-04b1-4a7f-b8e4-fd4863e6d783")]
+
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Build and Revision Numbers
+// by using the '*' as shown below:
+// [assembly: AssemblyVersion("1.0.*")]
+[assembly: AssemblyVersion("1.3.0")]
+[assembly: AssemblyFileVersion("1.3.0")]
+[assembly: MelonInfo(typeof(RandomizeInterloperRareSpawns.Implementation), "RandomizeInterloperRareSpawns", "1.3.0", "ds5678, MooseMeat")]
+[assembly: MelonGame("Hinterland", "TheLongDark")]

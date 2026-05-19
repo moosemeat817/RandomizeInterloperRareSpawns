@@ -22,14 +22,14 @@ On vanilla interloper, finding one rare item allows the player to know the locat
 | Bedroll          | Homesteader's Respite in Ash Canyon    |
 | Storm Lantern    | Middle Layer of Cinder Hills Coal Mine |
 
----
+
 
 ## Requirements
 
 - ModSettings
 - ModComponent
 
----
+
 
 ## 🙏 Special Thanks
 

@@ -11,3 +11,13 @@ On vanilla interloper, finding one rare item allows the player to know the locat
 - Other than the above limit on hammer spawns, rare items can be found in any region and are almost evenly distributed.
 - There is one guaranteed spawn in the world for each rare item.
 
+## Guaranteed Spawns
+
+| Item             | Location                               |
+| ---------------- | -------------------------------------- |
+| Heavy Hammer     | Monolith Lake in Hushed River Valley   |
+| Hacksaw          | Cannery Workshop in Bleak Inlet        |
+| Firestriker      | Ravine in Broken Railroad              |
+| Magnifying Glass | Summit of Timberwolf Mountain          |
+| Bedroll          | Homesteader's Respite in Ash Canyon    |
+| Storm Lantern    | Middle Layer of Cinder Hills Coal Mine |
